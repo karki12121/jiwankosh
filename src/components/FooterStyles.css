@@ -1,0 +1,14 @@
+.Footer{
+    padding: 4rem 6rem;
+    background: gray;
+    color : black
+
+}
+.top{
+    align-items: center;
+    display: flex;
+}
+.top h1{
+    color:greenyellow;
+    font-size: larger;
+}
